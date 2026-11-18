@@ -54,11 +54,11 @@ Não compartilhe nem publique esse arquivo.
 
 ## Exemplo de requisição
 
-    ```json
-    {
-    "description": "Ao clicar em entrar, a página fica carregando e não abre."
-    }
-    ```
+```json
+{
+"description": "Ao clicar em entrar, a página fica carregando e não abre."
+}
+```
 
 ## Limitações
 
